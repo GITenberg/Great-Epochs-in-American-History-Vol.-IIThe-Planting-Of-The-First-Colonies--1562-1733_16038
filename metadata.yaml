@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3081
     wikipedia: http://en.wikipedia.org/wiki/Francis_Whiting_Halsey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16038#Great-Epochs-in-American-History-Vol.-IIThe-Planting-Of-The-First-Colonies--1562-1733
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2005-06-11'
 gutenberg_type: Text
